@@ -1,0 +1,14 @@
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/bin/Debug/net10.0/BridgeGenerator
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/bin/Debug/net10.0/BridgeGenerator.deps.json
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/bin/Debug/net10.0/BridgeGenerator.runtimeconfig.json
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/bin/Debug/net10.0/BridgeGenerator.dll
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/bin/Debug/net10.0/BridgeGenerator.pdb
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.AssemblyInfoInputs.cache
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.AssemblyInfo.cs
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.csproj.CoreCompileInputs.cache
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.dll
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/refint/BridgeGenerator.dll
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.pdb
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/BridgeGenerator.genruntimeconfig.cache
+/Users/matyassunyovszki/RiderProjects/BridgeGenerator/BridgeGenerator/obj/Debug/net10.0/ref/BridgeGenerator.dll
