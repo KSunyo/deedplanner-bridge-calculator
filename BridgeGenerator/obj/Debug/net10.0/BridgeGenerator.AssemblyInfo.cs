@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BridgeGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc9226bd13d2e784041c2bb4003796ba5e00040")]
 [assembly: System.Reflection.AssemblyProductAttribute("BridgeGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BridgeGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

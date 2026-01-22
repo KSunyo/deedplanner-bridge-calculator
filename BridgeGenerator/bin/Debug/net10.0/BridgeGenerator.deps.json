@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BridgeGenerator/1.0.0": {
+        "runtime": {
+          "BridgeGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

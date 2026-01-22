@@ -19,7 +19,7 @@
                 else
                 {
                     bridgeLength = 23;
-                    bridgeType = "Stone";
+                    bridgeType = "Brick";
                     bridgeIsFlat = true;
                 }
                 
@@ -51,7 +51,13 @@
             {
                 bridgeStructure = RopeBridgeStructure(length);
             }
-            else if (bridgeType == "Stone")
+            else if (bridgeType == "Brick" || 
+                     bridgeType == "Sandstone" || 
+                     bridgeType == "Marble" || 
+                     bridgeType == "Slate" ||
+                     bridgeType == "Pottery" ||
+                     bridgeType == "Rendered" ||
+                     bridgeType == "Roundedstone")
             {
                 switch (isFlat)
                 {
@@ -74,6 +80,10 @@
                         bridgeStructure = ArchedWoodBridgeStructure(length);
                         break;
                 }
+            }
+            else
+            {
+                throw new ArithmeticException("[ERROR] Please choose a correct bridge type: Brick, Marble, Slate, Sandstone, Pottery, Rendered or Roudnedstone");
             }
             
             return string.Join(", ", bridgeStructure);
