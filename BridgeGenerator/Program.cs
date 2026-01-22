@@ -10,20 +10,26 @@
             
             try
             {
-                if (args.Length > 0)
+                if (args.Length == 0)
                 {
-                    bridgeLength = int.Parse(args[0]);
-                    bridgeType = args[1];
-                    bridgeIsFlat = bool.Parse(args[2]);
+                    Console.WriteLine("[HELP] ./BridgeGenerator <length> <bridgeType> <bridgeIsFlat>");
                 }
                 else
                 {
-                    bridgeLength = 23;
-                    bridgeType = "Brick";
-                    bridgeIsFlat = true;
+                    bridgeLength = int.Parse(args[0]);
+                    bridgeType = args[1];
+                    if (bridgeType != "Rope")
+                    {
+                        bridgeIsFlat = bool.Parse(args[2]);
+                    }
+                    else
+                    {
+                        bridgeIsFlat = false;
+                    }
+                    
+                    Console.WriteLine(GenerateBridge(bridgeLength, bridgeType, bridgeIsFlat));
                 }
                 
-                Console.WriteLine(GenerateBridge(bridgeLength, bridgeType, bridgeIsFlat));
             }
             catch (Exception e)
             {
